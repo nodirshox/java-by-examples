@@ -1,6 +1,7 @@
 # Learning Java language by examples
 
 Compile java file in Ubuntu (make sure you have installed JDK).
+
 1.
 
 ```
