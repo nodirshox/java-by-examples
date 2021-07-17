@@ -1,11 +1,12 @@
 # Learning Java language by examples
 
-Compile java file in Ubutuntu. (*Make sure you have installed JDK)
+Compile java file in Ubuntu (make sure you have installed JDK).
+1.
 
 ```
 javac HelloWorld.class
 ```
-
+2.
 ```
 java HelloWorld
 ```
