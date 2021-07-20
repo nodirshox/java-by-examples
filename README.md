@@ -20,3 +20,5 @@ Attention: class name and file name should be same.
 1. Hello World
 2. Comments
 3. Variables
+4. Data types
+5. Type Casting
