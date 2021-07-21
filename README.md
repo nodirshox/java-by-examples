@@ -29,7 +29,7 @@ Attention: class name and file name should be same.
 10. Conditions
 11. Switch
 12. While
-
+13. For Loop
 
 ## Source
 [w3School](https://www.w3schools.com/java/)
