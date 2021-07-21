@@ -26,6 +26,7 @@ Attention: class name and file name should be same.
 7. Strings
 8. Math
 9. Boolean
+10. Conditions
 
 
 ## Source
