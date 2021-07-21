@@ -27,7 +27,7 @@ Attention: class name and file name should be same.
 8. Math
 9. Boolean
 10. Conditions
-
+11. Switch
 
 ## Source
 [w3School](https://www.w3schools.com/java/)
