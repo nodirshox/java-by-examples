@@ -23,6 +23,7 @@ Attention: class name and file name should be same.
 4. Data types
 5. Type Casting
 6. Operators
+7. Strings
 
 
 ## Source
