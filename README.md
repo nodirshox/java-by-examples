@@ -22,6 +22,8 @@ Attention: class name and file name should be same.
 3. Variables
 4. Data types
 5. Type Casting
+6. Operators
+
 
 ## Source
 [w3School](https://www.w3schools.com/java/)
