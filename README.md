@@ -28,6 +28,8 @@ Attention: class name and file name should be same.
 9. Boolean
 10. Conditions
 11. Switch
+12. While
+
 
 ## Source
 [w3School](https://www.w3schools.com/java/)
