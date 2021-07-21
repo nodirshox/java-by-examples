@@ -30,6 +30,7 @@ Attention: class name and file name should be same.
 11. Switch
 12. While
 13. For Loop
+14. Array
 
 ## Source
 [w3School](https://www.w3schools.com/java/)
