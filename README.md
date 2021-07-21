@@ -24,6 +24,7 @@ Attention: class name and file name should be same.
 5. Type Casting
 6. Operators
 7. Strings
+8. Math
 
 
 ## Source
