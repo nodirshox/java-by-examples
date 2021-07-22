@@ -31,6 +31,8 @@ Attention: class name and file name should be same.
 12. While
 13. For Loop
 14. Array
+15. Method
+
 
 ## Source
 [w3School](https://www.w3schools.com/java/)
